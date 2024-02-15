@@ -15,7 +15,7 @@ Linkdin: sanchit339
 ```
 
 <p align="left">
-    <img src="./ColourProfile.jpg"></img>
+    <img src="./ColourProfile.jpg" width="50" height="40"></img>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+Sanchit's+GitHub+Profile)](https://git.io/typing-svg)
