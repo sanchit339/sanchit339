@@ -8,7 +8,7 @@ sanchit@github
 -------------------------
 OS: macOS 14.2.1 23C71 arm64
 Shell: zsh 5.9
-Location: Pune, MH , India
+Location: Pune, MH, India
 Learning: Engineering behind Computers
 Intrests: Gaming, Linux, Bare Metal, Cloud.
 Linkdin: sanchit339
