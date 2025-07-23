@@ -9,8 +9,8 @@ sanchit@github
 OS: macOS 14.2.1 23C71 arm64
 Shell: zsh 5.9
 Location: Pune, MH, India
-Learning: Engineering behind Computers
-Intrests: Gaming, Linux, Bare Metal, Cloud.
+Learning: ❌ Supporting Exchange Legacy Codebase.
+Intrests: Life`s Tough these days :).
 Linkdin: sanchit339
 ```
 
