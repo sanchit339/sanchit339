@@ -10,7 +10,7 @@ OS: macOS 14.2.1 23C71 arm64
 Shell: zsh 5.9
 Location: Mum, MH, India
 Learning: Computer Language
-Intrests: Life`s Tough these days :).
+Intrests: AI Hardware
 Linkdin: sanchit339
 ```
 
