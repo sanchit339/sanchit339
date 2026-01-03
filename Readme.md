@@ -8,8 +8,8 @@ sanchit@github
 -------------------------
 OS: macOS 14.2.1 23C71 arm64
 Shell: zsh 5.9
-Location: Pune, MH, India
-Learning: ❌ Supporting Exchange Legacy Codebase.
+Location: Mum, MH, India
+Learning: Computer Language
 Intrests: Life`s Tough these days :).
 Linkdin: sanchit339
 ```
